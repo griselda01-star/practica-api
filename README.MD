@@ -2,7 +2,7 @@
 
 Esta es una aplicación de calculadora de divisas simple desarrollada en Python utilizando POO.
 
-**Asignatura:** Desarrollo Web 1
+**Asignatura:** Lenguajes de Programación
 **TSU:** Servicios en la Nube
 **Nombres:** Griselda Natalia
 **Apellidos:** Marroquin Aguilar
